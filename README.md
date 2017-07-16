@@ -54,3 +54,9 @@
 + *豆智彰*： 来历不明的人类
 + *舒弘毅*： 最聪明的半人马
 + *葛迪*： 舒弘毅的叔叔，曾经的半人马酋长
+
+## 参考图片
+
+https://github.com/zhy1378/RiseOfGodsNation/tree/master/images
+
+这些图片是我思考情节、描述场景时参考、借鉴过的
