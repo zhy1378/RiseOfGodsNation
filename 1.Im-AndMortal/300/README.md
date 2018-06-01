@@ -30,3 +30,5 @@
 [300-01-11 安彤娅·进京](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/11ATY.md)
 
 [300-01-12 曾牛·采购](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/12ZN.md)
+
+[300-01-13 周治亮·拜神](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/13ZZL.md)
