@@ -7,7 +7,7 @@
 ### 止戈三百年
 #### 正月
 
-[300-01-01 豆智彰·算命](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/01DZZ.md)
+[300-01-01 豆子璋·算命](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/01DZZ.md)
 
 [300-01-02 云风·送信](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/02YF.md)
 
