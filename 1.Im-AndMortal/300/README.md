@@ -41,6 +41,10 @@
 
 # 番外
 
+> 中子豆曰：颇有读者看完这几篇番外后，觉得毫无文采，立即“脱粉”。我必须解释下，这几篇都是“书中书”，也就是书中那个时代出现的书籍。这本书是《亿万全书》，也就是百科全书性质的书，故此文风刻意追求平白直叙、客观公正。如果你觉得没有文采，那就对了。
+
+## 亿万全书
+
 [亿万全书·生物·半人·美人鱼](https://github.com/zhy1378/RiseOfGodsNation/blob/master/Terasks/Biology/半人/美人鱼.md)
 
 [亿万全书·生物·半人·蜂女](https://github.com/zhy1378/RiseOfGodsNation/blob/master/Terasks/Biology/半人/蜂女.md)
