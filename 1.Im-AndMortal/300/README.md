@@ -25,27 +25,8 @@
 
 [300-01-05 安彤娅·侦察](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/05ATY.md)
 
-[300-01-06 安彤娅·出门](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/06ATY.md)
+[300-01-05 安彤娅-云风-豆子璋·雷击](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/06.md)
 
-[300-01-07 安彤娅·夜访](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/07ATY.md)
-
-[300-01-08 安彤娅·化形](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/08ATY.md)
-
-[300-01-09 安彤娅·拐带](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/09ATY.md)
-
-[300-01-10 云风·诱饵](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/10YF.md)
-
-[300-01-11 安彤娅·进京](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/11ATY.md)
-
-[300-01-12 曾牛·采购](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/12ZN.md)
-
-[300-01-13 周治亮·拜神](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/13ZZL.md)
-
-[300-01-14 曾从文·夜惊](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/14ZCW.md)
-
-[300-01-15 云风·上元 1/2](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/15-1.md)
-
-[300-01-15 云风·上元 2/2](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/15-2.md)
 
 # 番外
 
@@ -62,3 +43,13 @@
 [亿万全书·生物·半人·双头人](https://github.com/zhy1378/RiseOfGodsNation/blob/master/Terasks/Biology/半人/双头人.md)
 
 [亿万全书·科学·清轻水](https://github.com/zhy1378/RiseOfGodsNation/blob/master/Terasks/Science/清轻水.md)
+
+# 历程
+
+## 2018-08-28 大重构
+
+今日，正式开始第五次大重构。这次重构从第六章开始。前五章不变。
+
+本次改进计划代号“爽快”。顾名思义，增加爽点，加速情节的推进。
+
+我就不说水平如何，单单论认真程度，碾压其它网文写手吧？
