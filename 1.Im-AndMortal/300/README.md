@@ -31,7 +31,9 @@
 
 [300-01-08 豆子璋-安小丫-云风 《初遇》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/08.md)
 
-[300-01-09 豆子璋-安小丫-徐世桢-云风 《徐府》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/09.md)
+[300-01-09 豆子璋-安小丫-徐世桢-西柚 《徐府》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/09.md)
+
+[300-01-10 豆子璋-安小丫-徐世桢-云风 《化心》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/10.md)
 
 # 番外
 
