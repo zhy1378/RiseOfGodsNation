@@ -15,25 +15,25 @@
 ### 止戈三百年
 #### 正月
 
-[300-01-01 豆子璋 《算命》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/01DZZ.md)
+[300-01-01 《豆子璋：算命》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/01.md)
 
-[300-01-02 云风 《送信》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/02YF.md)
+[300-01-02 《云风：送信》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/02.md)
 
-[300-01-03 云风 《戏耍》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/03YF.md)
+[300-01-03 《云风：戏耍》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/03.md)
 
-[300-01-04 云风 《再遇》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/04YF.md)
+[300-01-04 《云风：再遇》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/04.md)
 
-[300-01-05 安彤娅 《侦察》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/05ATY.md)
+[300-01-05 《安彤娅：侦察》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/05.md)
 
-[300-01-06 安彤娅-云风-豆子璋 《雷击》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/06.md)
+[300-01-06 《安彤娅-云风-豆子璋：急救》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/06.md)
 
-[300-01-07 曾牛 《采购》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/07.md)
+[300-01-07 《曾牛-曾从文：采购》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/07.md)
 
-[300-01-08 豆子璋-安小丫-云风 《初遇》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/08.md)
+[300-01-08 《豆子璋-安小丫-云风：化形》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/08.md)
 
-[300-01-09 豆子璋-安小丫-徐世桢-西柚 《徐府》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/09.md)
+[300-01-09 《豆子璋-安小丫-徐世桢-西柚：徐府》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/09.md)
 
-[300-01-10 豆子璋-安小丫-徐世桢-云风 《化心》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/10.md)
+[300-01-10 《豆子璋-安小丫-徐世桢-云风：化心》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/10.md)
 
 # 番外
 
