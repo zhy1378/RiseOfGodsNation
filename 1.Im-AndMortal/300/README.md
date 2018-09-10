@@ -11,7 +11,7 @@
 [《自序》 建议好好看看](https://github.com/zhy1378/RiseOfGodsNation/blob/master/Preface.md)
 
 # 《仙国崛起》 中子豆 著  
-## 第一部《仙与凡》  
+## 第一部《仙与凡》
 ### 止戈三百年
 #### 正月
 
@@ -33,7 +33,9 @@
 
 [300-01-09 《豆子璋-安小丫-徐世桢-西柚：徐府》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/09.md)
 
-[300-01-10 《豆子璋-安小丫-徐世桢-云风：化心》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/10.md)
+[300-01-10 《豆子璋-安小丫-徐世桢-西柚：软禁》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/10.md)
+
+[300-01-11 《豆子璋-安小丫-徐世桢-云风：化心》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/11.md)
 
 # 番外
 
