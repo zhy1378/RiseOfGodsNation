@@ -37,6 +37,8 @@
 
 [300-01-11 《豆子璋-安小丫-徐世桢-云风：化心》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/11.md)
 
+[300-01-12 《周治亮-曾从文-豆子璋-安彤娅-俞阳-张秋山：拜神》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/12.md)
+
 # 番外
 
 > 中子豆曰：颇有读者看完这几篇番外后，觉得毫无文采，立即“脱粉”。我必须解释下，这几篇都是“书中书”，也就是书中那个时代出现的书籍。
