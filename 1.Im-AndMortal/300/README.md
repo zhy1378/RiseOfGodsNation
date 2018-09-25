@@ -43,7 +43,7 @@
 
 [300-01-14 《豆子璋-安彤娅-曾从文-周治亮：入京》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/14.md)
 
-[300-01-15 《曾从文-周治亮-云风-豆子璋-安彤娅-路茗：上元》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/15.md)
+[300-01-15 《曾从文-周治亮-云风-豆子璋-安彤娅：上元》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/15.md)
 
 
 # 番外
@@ -128,7 +128,7 @@
 * 宁国瑟 300-01-15 戊宁世子。
 * 巴奥扎 300-01-15 布乌坨世子。
 * 丙里哼 300-01-15 布乌坨可汗。
-* 封得韵 300-01-15 蒲宛郡主。
+* 封国韵 300-01-15 蒲宛郡主。
 * 魏靖远 300-01-15 渭初世子。
 * 金得姬 300-01-15 金巴郡主。
 * 瞿民怡 300-01-15 弥渠郡主。
