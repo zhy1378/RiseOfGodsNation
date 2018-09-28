@@ -1,103 +1,71 @@
-# 《仙国崛起》Rise Of Gods' Nation
+# 《仙国崛起》Rise Of Gods' Nation 中子豆 著 
 
-## 一、读者须知
+# 一、读者须知
 
-1. 月更保底一万，我会努力做到日更一千，催更无用
-2. 接受读者报名，不想死的要说明
-3. 表面上我或许在写神仙志怪，其实我写的是人，描述的是人类社会。如果你确实想报名当个妖怪的话，不如先好好想想你想代表社会中的那一类人，然后再找个对应的生物。当然，你也可以当人，或者当神仙。
-4. 我不会写任何完美角色，包括男女主角。根据人品守恒定理，如果你自己设计的角色前期过于完美，那么后期……
-5. 我不会因为硬要添加一个角色，而破坏整体的逻辑和自洽。
-6. 读者只有建议权，无决策权。一个角色加入之后，他就不再属于建议者，甚至不属于作者，而必须跟随情节行动。读者哭闹喊叫让我改情节是不可能的。
-7. [《自序》 建议好好看看](https://github.com/zhy1378/RiseOfGodsNation/blob/master/Preface.md)
+1. 从2018-08-28，本人下狠心第五次大重构本书，然后开始狂热写作，每月10万字。
+2. 表面上我或许在写神仙志怪，其实我写的是人，描述的是人类社会。如果你确实想报名当个妖怪的话，不如先好好想想你想代表社会中的那一类人，然后再找个对应的生物。当然，你也可以当人，或者当神仙。
+3. 我不会写任何完美角色，包括男女主角。我也不会因为硬要添加一个角色，而破坏整体的逻辑和自洽。
+4. 读者只有建议权，无决策权。一个角色加入之后，他就不再属于建议者，甚至不属于作者，而必须跟随情节行动。读者哭闹喊叫让我改情节是不可能的。
+5. 契科夫说：写小说时，要删除一切和戏剧性无关的成分。比如，小说里写着，墙上挂着一把枪，那么这本小说的某处肯定会写到有人拿着这把枪开火了。如果一个作者写了大量“用不上的道具”，那水平就很低。本人是有追求的，书中的伏笔极多，你看到一个道具却记不得我什么时候提到过，岂不尴尬？故此：**唯一建议：看本书一定要慢，否则看不懂。**
+6. [《自序》 务必要看](https://github.com/zhy1378/RiseOfGodsNation/blob/master/preface.md)
+7. [《度量衡、货币、历法说明》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/defines.md)
+8. [《地理说明》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/geography.md) 书中都讲了，不过本书极宏大，如果你总是记不住，就看这里。
+9. [《人物小传》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/roles.md) 这本书要像历史书一样讲超多人物，记不住就来瞅瞅。
 
-## 二、章节说明
+# 二、章节说明
 
-我想用一种特别的方式来写这本书。每一章都是一个角色在一天发生的故事，故此在标题就有日期和角色名称。
+我想用一种特别的方式来写这本书。每一章都是一天内发生的故事，故此在标题就是日期。
 
-整个故事共分为八部：
+整个故事共分为八部，现在只是第一部《仙与凡 Immortal and Mortal》。
 
-* 仙与凡 Im- and Mortal
-	* [故事从“止戈三百年”开始，点此阅读](https://github.com/zhy1378/RiseOfGodsNation/tree/master/1.Im-AndMortal/300/README.md)
-* 侠与义 Chivalry and Justice
-* 国与家 Nation and Family
-* 民与君 King and Folk
-* 战与和 War and Peace
-* 敌与友 Ally and Foe
-* 妖与法 Rule and Fairy
-* 神与魔 God and Fiend
+故事开始在“止戈三百年”的春节，故此第一章就是 300-01-01.
 
+## 第一部《仙与凡》
+### 止戈三百年
+#### 正月
 
+[300-01-01 《豆子璋：算命》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/01.md)
 
-## 三、度量衡说明
+[300-01-02 《云风：送信》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/02.md)
 
-### 长度
+[300-01-03 《云风：戏耍》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/03.md)
 
-* 1 丈 = 2步 = 4跬 = 5臂 = 10尺 = 20拃（掌） = 100寸 = 200指
-* 1 里 = 150 丈 
-* 1 匹 = 4 丈
-* 1 尺 = 100 分 = 1000 厘 = 10000 毫 = 10 0000 丝 = 100 0000 忽 = 1000 0000 微
-* 1 尺 = 33.33 厘米  
+[300-01-04 《云风：再遇》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/04.md)
 
-### 重量
+[300-01-05 《安彤娅：侦察》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/05.md)
 
-* 1/16 斤 = 1两 = 10钱 = 24铢 = 100分 = 1000厘
+[300-01-06 《安彤娅-云风-豆子璋：急救》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/06.md)
 
-### 货币
+[300-01-07 《曾牛-曾从文：采购》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/07.md)
 
-* 1 两白银 ~ 1000铜钱
+[300-01-08 《豆子璋-安小丫-云风：化形》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/08.md)
 
-## 四、历法说明
+[300-01-09 《豆子璋-安小丫-徐世桢-西柚：徐府》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/09.md)
 
-1. 每年365天多一点，同地球年（不要问为什么，没有理由）
-2. 每个季度91天，即13周，其中第一个月31天，第二、三个月30天
-3. 这样一共是364天，多出来的一天加在12月的最后一天
-3. 如果有闰年，也加在12月的最后一天
-4. 春分日设为2月1日或2日，夏至日5月1~2日，秋分日8月1~2日，冬至日11月1~2日
-5. 每个季度第一天设为周一。12月31日是周一，闰日是周二，但1月1日重新设为周一
-6. 最后，每个月份的日子如下：  
+[300-01-10 《豆子璋-安小丫-徐世桢-西柚：软禁》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/10.md)
 
-31 30 30, 31 30 30, 31 30 30, 31 30 31(+1)
+[300-01-11 《豆子璋-安小丫-徐世桢-云风：化心》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/11.md)
 
-> 【中子豆曰】
-> 我很喜欢这个历法设计，简洁、易用、清晰、明了，比当今用的西方历法好太多了。  
-> 这个历法设计与扑克牌高度对应：  
-> + 四个花色 => 四季  
-> + 13个数 => 13周  
-> + 12月31日 => 小王  
-> + 闰日 => 大王  
-> + 1+2+...+12+13 = 91 => 每季度91天  
+[300-01-12 《周治亮-曾从文-豆子璋-安彤娅-俞阳-张秋山：拜神》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/12.md)
 
+[300-01-13 《张秋山-俞阳-豆子璋-安彤娅：渡口》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/13.md)
 
-# 历法、节日与节气
+[300-01-14 《豆子璋-安彤娅-曾从文-周治亮：入京》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/14.md)
 
-1. 立春 雨水  
-	1.1 春节  
-	1.08 七九  
-	1.15 上元节  
-2. 惊蛰 春分  
-	2.2 龙首节  
-3. 清明 谷雨  
-	3.3 清明节  
-4. 立夏 小满  
-	4.4 庆夏节  
-5. 芒种 夏至  
-	5.5 端午节  
-6. 小暑 大暑  
-	6.6 
-7. 立秋 处暑  
-	7.7  
-8. 白露 秋分  
-	8.8 大丰节  
-9. 寒露 霜降  
-	9.9 重阳节  
-10. 立冬 小雪  
-	10.10   
-11. 大雪 冬至  
-	11.11 冬祭  
-	11.15 冬至 一九  
-	11.24 二九  
-12. 小寒 大寒  
-	12.03 三九  
-	12.12 四九祭  
-	12.21 五九  
-	12.30 六九
+[300-01-15 《曾从文-周治亮-云风-豆子璋-安彤娅-路茗：上元》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/15.md)
+
+# 三、番外
+
+> 中子豆曰：颇有读者看完这几篇番外后，觉得毫无文采，立即“脱粉”。我必须解释下，这几篇都是“书中书”，也就是书中那个时代出现的书籍。
+>
+> 这本书是《亿万全书》，也就是百科全书性质的书，故此文风刻意追求平白直叙、客观公正。其体裁相当于维基百科或百度百科。如果你觉得没有文采，那就对了。
+
+## 亿万全书
+
+[亿万全书·生物·半人·美人鱼](https://github.com/zhy1378/RiseOfGodsNation/blob/master/Terasks/Biology/半人/美人鱼.md)
+
+[亿万全书·生物·半人·蜂女](https://github.com/zhy1378/RiseOfGodsNation/blob/master/Terasks/Biology/半人/蜂女.md)
+
+[亿万全书·生物·半人·双头人](https://github.com/zhy1378/RiseOfGodsNation/blob/master/Terasks/Biology/半人/双头人.md)
+
+[亿万全书·科学·清轻水](https://github.com/zhy1378/RiseOfGodsNation/blob/master/Terasks/Science/清轻水.md)
