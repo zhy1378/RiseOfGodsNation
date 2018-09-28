@@ -7,12 +7,16 @@
 3. 我不会写任何完美角色，包括男女主角。我也不会因为硬要添加一个角色，而破坏整体的逻辑和自洽。
 4. 读者只有建议权，无决策权。一个角色加入之后，他就不再属于建议者，甚至不属于作者，而必须跟随情节行动。读者哭闹喊叫让我改情节是不可能的。
 5. 契科夫说：写小说时，要删除一切和戏剧性无关的成分。比如，小说里写着，墙上挂着一把枪，那么这本小说的某处肯定会写到有人拿着这把枪开火了。如果一个作者写了大量“用不上的道具”，那水平就很低。本人是有追求的，书中的伏笔极多，你看到一个道具却记不得我什么时候提到过，岂不尴尬？故此：**唯一建议：看本书一定要慢，否则看不懂。**
-6. [《自序》 务必要看](https://github.com/zhy1378/RiseOfGodsNation/blob/master/preface.md)
-7. [《度量衡、货币、历法说明》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/defines.md)
-8. [《地理说明》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/geography.md) 书中都讲了，不过本书极宏大，如果你总是记不住，就看这里。
-9. [《人物小传》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/roles.md) 这本书要像历史书一样讲超多人物，记不住就来瞅瞅。
 
-# 二、章节说明
+# 二、作品相关
+
+* [《自序》 务必要看](https://github.com/zhy1378/RiseOfGodsNation/blob/master/preface.md)
+* [《度量衡、货币、历法说明》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/defines.md)
+* 本书要像《三国演义》那样宏大，甚至可能更宏大。涉及的人物和地理概念极多，如果忘记了，就来看看。
+	* [《地理说明》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/geography.md)
+	* [《人物小传》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/roles.md)
+
+# 三、章节说明
 
 我想用一种特别的方式来写这本书。每一章都是一天内发生的故事，故此在标题就是日期。
 
@@ -54,7 +58,7 @@
 
 [300-01-15 《曾从文-周治亮-云风-豆子璋-安彤娅-路茗：上元》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/15.md)
 
-# 三、番外
+# 四、番外
 
 > 中子豆曰：颇有读者看完这几篇番外后，觉得毫无文采，立即“脱粉”。我必须解释下，这几篇都是“书中书”，也就是书中那个时代出现的书籍。
 >
