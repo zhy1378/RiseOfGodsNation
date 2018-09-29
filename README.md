@@ -23,11 +23,11 @@
 
 我想用一种特别的方式来写这本书。每一章都是一天内发生的故事，故此在标题就是日期。
 
-整个故事共分为八部，现在只是第一部《仙与凡 Immortal and Mortal》。
+整个故事共分为八部，现在只是第一部《仙与凡 Immortal and Mortal》。是的，虽然才写了个开头，后面八部的主线情节都已经在计划中了。绝大多数网文作者都是想到哪写到哪，本书例外。
 
 故事开始在“止戈三百年”的春节，故此第一章就是 300-01-01.
 
-## 第一部《仙与凡》
+## 第一部《仙与凡 Immortal and Mortal》
 ### 止戈三百年
 #### 正月
 
@@ -60,6 +60,8 @@
 [300-01-14 《豆子璋-安彤娅-曾从文-周治亮：入京》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/14.md)
 
 [300-01-15 《曾从文-周治亮-云风-豆子璋-安彤娅-路茗：上元》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/15.md)
+
+[300-01-16 《封国韵-豆子璋-云风-张秋山：灰烬》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/16.md) 才一小段。
 
 # 四、番外
 

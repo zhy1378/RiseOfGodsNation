@@ -9,7 +9,7 @@
 [《自序》 建议好好看看](https://github.com/zhy1378/RiseOfGodsNation/blob/master/preface.md)
 
 # 《仙国崛起》 中子豆 著  
-## 第一部《仙与凡》
+## 第一部《仙与凡 Immortal and Mortal》
 ### 止戈三百年
 #### 正月
 
@@ -43,6 +43,7 @@
 
 [300-01-15 《曾从文-周治亮-云风-豆子璋-安彤娅：上元》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/15.md)
 
+[300-01-16 《封国韵-豆子璋-云风-张秋山：灰烬》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/16.md)
 
 # 番外
 
