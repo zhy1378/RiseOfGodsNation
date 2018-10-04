@@ -84,37 +84,39 @@
 ### 止戈三百年
 #### 正月
 
-[300-01-01 《豆子璋：算命》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/01.md)
+[300-01-01 《豆子璋：算命》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/01.md)
 
-[300-01-02 《云风：送信》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/02.md)
+[300-01-02 《云风：送信》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/02.md)
 
-[300-01-03 《云风：戏耍》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/03.md)
+[300-01-03 《云风：戏耍》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/03.md)
 
-[300-01-04 《云风：再遇》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/04.md)
+[300-01-04 《云风：再遇》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/04.md)
 
-[300-01-05 《安彤娅：侦察》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/05.md)
+[300-01-05 《安彤娅：侦察》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/05.md)
 
-[300-01-06 《安彤娅-云风-豆子璋：急救》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/06.md)
+[300-01-06 《安彤娅-云风-豆子璋：急救》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/06.md)
 
-[300-01-07 《曾牛-曾从文：采购》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/07.md)
+[300-01-07 《曾牛-曾从文：采购》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/07.md)
 
-[300-01-08 《豆子璋-安小丫-云风：化形》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/08.md)
+[300-01-08 《豆子璋-安小丫-云风：化形》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/08.md)
 
-[300-01-09 《豆子璋-安小丫-徐世桢-西柚：徐府》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/09.md)
+[300-01-09 《豆子璋-安小丫-徐世桢-西柚：徐府》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/09.md)
 
-[300-01-10 《豆子璋-安小丫-徐世桢-西柚：软禁》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/10.md)
+[300-01-10 《豆子璋-安小丫-徐世桢-西柚：软禁》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/10.md)
 
-[300-01-11 《豆子璋-安小丫-徐世桢-云风：化心》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/11.md)
+[300-01-11 《豆子璋-安小丫-徐世桢-云风：化心》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/11.md)
 
-[300-01-12 《周治亮-曾从文-豆子璋-安彤娅-俞阳-张秋山：拜神》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/12.md)
+[300-01-12 《周治亮-曾从文-豆子璋-安彤娅-俞阳-张秋山：拜神》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/12.md)
 
-[300-01-13 《张秋山-俞阳-豆子璋-安彤娅：渡口》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/13.md)
+[300-01-13 《张秋山-俞阳-豆子璋-安彤娅：渡口》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/13.md)
 
-[300-01-14 《豆子璋-安彤娅-曾从文-周治亮：入京》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/14.md)
+[300-01-14 《豆子璋-安彤娅-曾从文-周治亮：入京》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/14.md)
 
-[300-01-15 《曾从文-周治亮-云风-豆子璋-安彤娅-路茗：上元》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/15.md)
+[300-01-15 《曾从文-周治亮-云风-豆子璋-安彤娅-路茗：上元1》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/15A.md)
 
-[300-01-16 《封国韵-豆子璋-云风-张秋山：灰烬》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/1.Im-AndMortal/300/01/16.md) 才一小段。
+[300-01-15 《曾从文-周治亮-云风-豆子璋-安彤娅-路茗：上元2》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/15B.md)
+
+[300-01-16 《封国韵-豆子璋-芓通：灰烬》](https://github.com/zhy1378/RiseOfGodsNation/blob/master/A/300/01/16A.md) 才一小段。
 
 # 四、番外
 
