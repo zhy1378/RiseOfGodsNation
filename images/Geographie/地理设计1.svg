@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-1206 -1309 1549 1483" width="1549" height="1483">
+  <defs>
+    <font-face font-family="PingFang SC" font-size="14" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="PingFang SC" font-size="16" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.7.1 
+    <dc:date>2018-04-14 07:32:21 +0000</dc:date>
+  </metadata>
+  <g id="Arbeitsfläche___" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>地图草案</title>
+    <g id="Arbeitsfläche___: 地图轮廓">
+      <title>地图轮廓</title>
+      <g id="Graphic_3">
+        <path d="M -1107 -262 C -875 482.19036 -537 -32 -537 -32 L -139 173 L 187 -133.5 L 235 -389 L 341 -606 L 155 -727 L 271 -1008 L 137 -1073 L -65 -1114 L -457 -1062 L -1086 -1308 C -1086 -1308 -1339 -1006.1904 -1107 -262 Z" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_14">
+        <path d="M -768 -745 L -692 -745 C -689.2386 -745 -687 -742.7614 -687 -740 L -687 -700 C -687 -697.2386 -689.2386 -695 -692 -695 L -768 -695 C -770.7614 -695 -773 -697.2386 -773 -700 L -773 -740 C -773 -742.7614 -770.7614 -745 -768 -745 Z" fill="white"/>
+        <path d="M -768 -745 L -692 -745 C -689.2386 -745 -687 -742.7614 -687 -740 L -687 -700 C -687 -697.2386 -689.2386 -695 -692 -695 L -768 -695 C -770.7614 -695 -773 -697.2386 -773 -700 L -773 -740 C -773 -742.7614 -770.7614 -745 -768 -745 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-768 -740)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">女儿国：蜂</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="35">女所在地</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <path d="M -1070.5447 -1107.7197 L -700.35195 -785.9161 C -698.2679 -784.1044 -698.04704 -780.9463 -699.8587 -778.8622 L -712.9799 -763.768 C -714.7915 -761.684 -717.94965 -761.4631 -720.0337 -763.2748 C -720.0337 -763.2748 -720.0337 -763.2748 -720.0337 -763.2748 L -1090.2265 -1085.0784 C -1092.3105 -1086.8901 -1092.5314 -1090.0482 -1090.7197 -1092.1323 L -1077.5985 -1107.2265 C -1075.7869 -1109.3105 -1072.6288 -1109.5314 -1070.5447 -1107.7197 Z" fill="white"/>
+        <path d="M -1070.5447 -1107.7197 L -700.35195 -785.9161 C -698.2679 -784.1044 -698.04704 -780.9463 -699.8587 -778.8622 L -712.9799 -763.768 C -714.7915 -761.684 -717.94965 -761.4631 -720.0337 -763.2748 C -720.0337 -763.2748 -720.0337 -763.2748 -720.0337 -763.2748 L -1090.2265 -1085.0784 C -1092.3105 -1086.8901 -1092.5314 -1090.0482 -1090.7197 -1092.1323 L -1077.5985 -1107.2265 C -1075.7869 -1109.3105 -1072.6288 -1109.5314 -1070.5447 -1107.7197 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1073.825 -1103.9462) rotate(41)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">外敌入侵的西北通道</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <path d="M -1065.3015 -207.17015 L -518.2245 -406.2899 C -515.6296 -407.23436 -512.7604 -405.89643 -511.81595 -403.30154 L -504.97555 -384.5077 C -504.0311 -381.9128 -505.369 -379.0436 -507.9639 -378.0991 C -507.9639 -378.0991 -507.9639 -378.0991 -507.9639 -378.0991 L -1055.0409 -178.97937 C -1057.6358 -178.0349 -1060.505 -179.37284 -1061.4495 -181.96773 L -1068.2899 -200.76158 C -1069.2344 -203.35647 -1067.8964 -206.22569 -1065.3015 -207.17015 C -1065.3015 -207.17015 -1065.3015 -207.17015 -1065.3015 -207.17015 Z" fill="white"/>
+        <path d="M -1065.3015 -207.17015 L -518.2245 -406.2899 C -515.6296 -407.23436 -512.7604 -405.89643 -511.81595 -403.30154 L -504.97555 -384.5077 C -504.0311 -381.9128 -505.369 -379.0436 -507.9639 -378.0991 C -507.9639 -378.0991 -507.9639 -378.0991 -507.9639 -378.0991 L -1055.0409 -178.97937 C -1057.6358 -178.0349 -1060.505 -179.37284 -1061.4495 -181.96773 L -1068.2899 -200.76158 C -1069.2344 -203.35647 -1067.8964 -206.22569 -1065.3015 -207.17015 C -1065.3015 -207.17015 -1065.3015 -207.17015 -1065.3015 -207.17015 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1063.5914 -202.47169) rotate(-20)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">外敌入侵的西南通道</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Arbeitsfläche___: 行政区">
+      <title>行政区</title>
+      <g id="Graphic_4">
+        <path d="M 226.94005 -395.8767 L 319.61903 -468.28546 C 321.79506 -469.98556 324.9373 -469.59974 326.6374 -467.4237 L 338.95062 -451.6635 C 340.65072 -449.48746 340.2649 -446.34523 338.08887 -444.64513 C 338.08887 -444.64513 338.08887 -444.64513 338.08887 -444.64513 L 245.4099 -372.2364 C 243.23387 -370.5363 240.09164 -370.9221 238.39154 -373.09813 L 226.0783 -388.85834 C 224.3782 -391.03437 224.76402 -394.1766 226.94005 -395.8767 C 226.94005 -395.8767 226.94005 -395.8767 226.94005 -395.8767 Z" fill="white"/>
+        <path d="M 226.94005 -395.8767 L 319.61903 -468.28546 C 321.79506 -469.98556 324.9373 -469.59974 326.6374 -467.4237 L 338.95062 -451.6635 C 340.65072 -449.48746 340.2649 -446.34523 338.08887 -444.64513 C 338.08887 -444.64513 338.08887 -444.64513 338.08887 -444.64513 L 245.4099 -372.2364 C 243.23387 -370.5363 240.09164 -370.9221 238.39154 -373.09813 L 226.0783 -388.85834 C 224.3782 -391.03437 224.76402 -394.1766 226.94005 -395.8767 C 226.94005 -395.8767 226.94005 -395.8767 226.94005 -395.8767 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(230.01836 -391.93665) rotate(-38)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">神吻国：神吻峡谷</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 79.89852 -849.8139 L 232.57362 -490.1339 C 233.6526 -487.59197 232.46666 -484.65667 229.92476 -483.5777 L 119.46417 -436.68996 C 116.92227 -435.611 113.98697 -436.7969 112.908 -439.3388 L -39.767113 -799.0188 C -40.846087 -801.5607 -39.66015 -804.496 -37.118245 -805.575 L 73.34234 -852.4628 C 75.88424 -853.5417 78.81954 -852.3558 79.89852 -849.8139 C 79.89852 -849.8139 79.89852 -849.8139 79.89852 -849.8139 Z" fill="white"/>
+        <path d="M 79.89852 -849.8139 L 232.57362 -490.1339 C 233.6526 -487.59197 232.46666 -484.65667 229.92476 -483.5777 L 119.46417 -436.68996 C 116.92227 -435.611 113.98697 -436.7969 112.908 -439.3388 L -39.767113 -799.0188 C -40.846087 -801.5607 -39.66015 -804.496 -37.118245 -805.575 L 73.34234 -852.4628 C 75.88424 -853.5417 78.81954 -852.3558 79.89852 -849.8139 C 79.89852 -849.8139 79.89852 -849.8139 79.89852 -849.8139 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(75.29599 -847.8602) rotate(67)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">淮泰国，靠海，大平原，经济发达，缺乏险隘防御</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <path d="M -131.5 -860 L -67 -860 C -64.23858 -860 -62 -857.7614 -62 -855 L -62 -815 C -62 -812.2386 -64.23858 -810 -67 -810 L -131.5 -810 C -134.26142 -810 -136.5 -812.2386 -136.5 -815 L -136.5 -855 C -136.5 -857.7614 -134.26142 -860 -131.5 -860 Z" fill="white"/>
+        <path d="M -131.5 -860 L -67 -860 C -64.23858 -860 -62 -857.7614 -62 -855 L -62 -815 C -62 -812.2386 -64.23858 -810 -67 -810 L -131.5 -810 C -134.26142 -810 -136.5 -812.2386 -136.5 -815 L -136.5 -855 C -136.5 -857.7614 -134.26142 -860 -131.5 -860 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-131.5 -855)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">泘恒国：</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="35">隶属洛嵩</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <path d="M -325.5 -795 L -75 -795 C -72.23858 -795 -70 -792.7614 -70 -790 L -70 -490 C -70 -487.2386 -72.23858 -485 -75 -485 L -325.5 -485 C -328.26142 -485 -330.5 -487.2386 -330.5 -490 L -330.5 -790 C -330.5 -792.7614 -328.26142 -795 -325.5 -795 Z" fill="white"/>
+        <path d="M -325.5 -795 L -75 -795 C -72.23858 -795 -70 -792.7614 -70 -790 L -70 -490 C -70 -487.2386 -72.23858 -485 -75 -485 L -325.5 -485 C -328.26142 -485 -330.5 -487.2386 -330.5 -490 L -330.5 -790 C -330.5 -792.7614 -328.26142 -795 -325.5 -795 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-325.5 -790)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">洛嵩国：人口最多，经济最发达，面积</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="35">最大。整个国土在大约700米的平缓高</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="55">原。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <path d="M -319 -354 L 155.5 -354 C 158.26142 -354 160.5 -351.76142 160.5 -349 L 160.5 -129 C 160.5 -126.23858 158.26142 -124 155.5 -124 L -319 -124 C -321.76142 -124 -324 -126.23858 -324 -129 L -324 -349 C -324 -351.76142 -321.76142 -354 -319 -354 Z" fill="white"/>
+        <path d="M -319 -354 L 155.5 -354 C 158.26142 -354 160.5 -351.76142 160.5 -349 L 160.5 -129 C 160.5 -126.23858 158.26142 -124 155.5 -124 L -319 -124 C -321.76142 -124 -324 -126.23858 -324 -129 L -324 -349 C -324 -351.76142 -321.76142 -354 -319 -354 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-319 -349)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">湘庐帝国：面积广阔，人口不太多，少数文明人统治多数本地矮人。经济落</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="35">后，有较大的不安定因素。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 86 -422 L 210 -422 C 212.76142 -422 215 -419.7614 215 -417 L 215 -377 C 215 -374.23858 212.76142 -372 210 -372 L 86 -372 C 83.23858 -372 81 -374.23858 81 -377 L 81 -417 C 81 -419.7614 83.23858 -422 86 -422 Z" fill="white"/>
+        <path d="M 86 -422 L 210 -422 C 212.76142 -422 215 -419.7614 215 -417 L 215 -377 C 215 -374.23858 212.76142 -372 210 -372 L 86 -372 C 83.23858 -372 81 -374.23858 81 -377 L 81 -417 C 81 -419.7614 83.23858 -422 86 -422 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(86 -417)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">天庭：天之山、天</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="35">之泊，三国交界</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <path d="M -459.5 -822 L -335.5 -822 C -332.73858 -822 -330.5 -819.7614 -330.5 -817 L -330.5 -717 C -330.5 -714.2386 -332.73858 -712 -335.5 -712 L -459.5 -712 C -462.2614 -712 -464.5 -714.2386 -464.5 -717 L -464.5 -817 C -464.5 -819.7614 -462.2614 -822 -459.5 -822 Z" fill="white"/>
+        <path d="M -459.5 -822 L -335.5 -822 C -332.73858 -822 -330.5 -819.7614 -330.5 -817 L -330.5 -717 C -330.5 -714.2386 -332.73858 -712 -335.5 -712 L -459.5 -712 C -462.2614 -712 -464.5 -714.2386 -464.5 -717 L -464.5 -817 C -464.5 -819.7614 -462.2614 -822 -459.5 -822 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-459.5 -817)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">戊宁国：经济落</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="35">后，战斗力强，少</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="55">数民族统治人口众</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="75">多的文明人，名义</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="95">上归属洛嵩</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <path d="M -530 -1025 L 184 -1025 C 186.76142 -1025 189 -1022.7614 189 -1020 L 189 -880 C 189 -877.2386 186.76142 -875 184 -875 L -530 -875 C -532.7614 -875 -535 -877.2386 -535 -880 L -535 -1020 C -535 -1022.7614 -532.7614 -1025 -530 -1025 Z" fill="white"/>
+        <path d="M -530 -1025 L 184 -1025 C 186.76142 -1025 189 -1022.7614 189 -1020 L 189 -880 C 189 -877.2386 186.76142 -875 184 -875 L -530 -875 C -532.7614 -875 -535 -877.2386 -535 -880 L -535 -1020 C -535 -1022.7614 -532.7614 -1025 -530 -1025 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-530 -1020)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">布乌坨人：辽阔的北方草原，征战不休。</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(-374 -444.5)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="17">合协大陆，面积广阔，人口众多</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <path d="M -588 -551.8927 L -431 -551.8927 C -428.2386 -551.8927 -426 -549.6541 -426 -546.8927 L -426 -486.8927 C -426 -484.13126 -428.2386 -481.8927 -431 -481.8927 L -588 -481.8927 C -590.7614 -481.8927 -593 -484.13126 -593 -486.8927 L -593 -546.8927 C -593 -549.6541 -590.7614 -551.8927 -588 -551.8927 Z" fill="white"/>
+        <path d="M -588 -551.8927 L -431 -551.8927 C -428.2386 -551.8927 -426 -549.6541 -426 -546.8927 L -426 -486.8927 C -426 -484.13126 -428.2386 -481.8927 -431 -481.8927 L -588 -481.8927 C -590.7614 -481.8927 -593 -484.13126 -593 -486.8927 L -593 -546.8927 C -593 -549.6541 -590.7614 -551.8927 -588 -551.8927 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-588 -546.8927)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">渭初国：君主昏庸</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

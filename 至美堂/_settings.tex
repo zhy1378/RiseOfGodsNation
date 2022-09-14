@@ -1,0 +1,36 @@
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+\renewcommand{\contentsname}{目录}
+
+\renewcommand{\listfigurename}{表格索引}
+
+\renewcommand{\listtablename}{图片索引}
+
+\renewcommand{\abstractname}{\Huge\bfseries 序言}
+
+\renewcommand{\chaptername}{}
+
+\renewcommand{\partname}{卷}
+
+\renewcommand{\nomname}{专有名词}
+
+\newcommand{\zhs}[1]{\begin{CJK}{UTF8}{gbsn}#1\end{CJK}}
+
+\newcommand{\hl}[1]{\colorbox{yellow}{#1}}
+
+\newcommand{\smalltitle}[1]{
+\begin{center}
+{\Large #1}
+\end{center}
+\vspace{1ex}
+}
+
+\definecolor{darkred}{rgb}{.5,0,0}
+
+\renewcommand{\emph}[1]{\textbf{\textcolor{darkred}{#1}}}
+%\renewcommand{\figurename}{Abb.}
+%\renewcommand{\tablename}{Tab.}
+
+%\renewcommand{\refname}{Literaturverzeichnis}
